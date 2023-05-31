@@ -26,7 +26,7 @@ import (
 	"github.com/Michael-Shabanov/CookieScanner/cmd/version"
 	"github.com/Michael-Shabanov/CookieScanner/parser"
 	"github.com/sirupsen/logrus"
-	kingpin "gopkg.in/alecthomas/kingpin.v2"
+	kingpin "gopkg.in/alecthomas/kingpin/v2"
 )
 
 var (
