@@ -1,1 +1,1 @@
-module gopkg.in/alecthomas/kingpin/v2
+module github.com/alecthomas/kingpin/v2
